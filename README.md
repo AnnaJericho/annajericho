@@ -1,4 +1,9 @@
 ### Hi there 👋
+👩‍🔬 I'm currently working on a course in neural data science!
+
+😄 Pronouns: She/Her
+
+⚡ Fun fact: I have many hobbies including running, crocheting, and reading. 🏃‍♀️ 🧶 📚
 
 <!--
 **AnnaJericho/annajericho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +17,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
