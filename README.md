@@ -1,5 +1,4 @@
 ### Hi there 👋
-👩‍🔬 I'm currently working on a course in neural data science!
 
 😄 Pronouns: She/Her
 
